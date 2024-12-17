@@ -16,7 +16,7 @@ Aplikasi **Konversi Mata Uang** adalah aplikasi mobile yang memungkinkan penggun
 
 ## 🎥 Video Demo & Aplikasi
 
-Link: **
+Link : [Demo Video & Apk](https://drive.google.com/drive/folders/1Lihya0Ra863hHXERq4uk3WyqTEeoF96G?usp=drive_link)
 
 ## 👥 Anggota Kelompok
 
